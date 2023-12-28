@@ -5,6 +5,8 @@ Running the App:
 
 2. Install all dependencies: bcrypt, express, express-validator, ejs, pg
 
-3. Start the app: npm start
+3. Enter your Postgres config details in db.js
+  
+4. Start the app: npm start
 
 The app will be served at localhost:8080.
